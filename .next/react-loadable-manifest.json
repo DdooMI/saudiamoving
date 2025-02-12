@@ -1,0 +1,32 @@
+{
+  "app\\page.tsx -> @/components/features/HowItWorks": {
+    "id": "app\\page.tsx -> @/components/features/HowItWorks",
+    "files": [
+      "static/chunks/_app-pages-browser_components_features_HowItWorks_tsx.js"
+    ]
+  },
+  "app\\page.tsx -> @/components/features/PopularCities": {
+    "id": "app\\page.tsx -> @/components/features/PopularCities",
+    "files": [
+      "static/chunks/_app-pages-browser_components_features_PopularCities_tsx.js"
+    ]
+  },
+  "app\\page.tsx -> @/components/features/QuickSearch": {
+    "id": "app\\page.tsx -> @/components/features/QuickSearch",
+    "files": [
+      "static/chunks/_app-pages-browser_components_features_QuickSearch_tsx.js"
+    ]
+  },
+  "app\\page.tsx -> @/components/layout/HomeHeader": {
+    "id": "app\\page.tsx -> @/components/layout/HomeHeader",
+    "files": [
+      "static/chunks/_app-pages-browser_components_layout_HomeHeader_tsx.js"
+    ]
+  },
+  "components\\features\\ReviewsSection.tsx -> framer-motion": {
+    "id": "components\\features\\ReviewsSection.tsx -> framer-motion",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_framer-motion_dist_es_index_mjs.js"
+    ]
+  }
+}
