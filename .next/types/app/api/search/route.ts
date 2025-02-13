@@ -1,4 +1,4 @@
-// File: C:\Users\DELL\Downloads\saudiamoving.com\saudiamoving.com\app\api\search\route.ts
+// File: C:\Users\DELL\Downloads\saudiamoving.com\New folder\saudiamoving\app\api\search\route.ts
 import * as entry from '../../../../../app/api/search/route.js'
 import type { NextRequest } from 'next/server.js'
 

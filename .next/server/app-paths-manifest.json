@@ -2,7 +2,7 @@
   "/page": "app/page.js",
   "/[city]/page": "app/[city]/page.js",
   "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
-  "/[city]/[service]/page": "app/[city]/[service]/page.js",
   "/api/search/route": "app/api/search/route.js",
-  "/add-company/page": "app/add-company/page.js"
+  "/[city]/[service]/page": "app/[city]/[service]/page.js",
+  "/services/page": "app/services/page.js"
 }

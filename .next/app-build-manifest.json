@@ -21,15 +21,10 @@
       "static/chunks/main-app.js",
       "static/chunks/app/[city]/[service]/page.js"
     ],
-    "/add-company/page": [
+    "/services/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/add-company/page.js"
-    ],
-    "/add-company/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/add-company/layout.js"
+      "static/chunks/app/services/page.js"
     ]
   }
 }
